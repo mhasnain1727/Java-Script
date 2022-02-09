@@ -1,0 +1,69 @@
+{
+    "data" : [
+        {
+            "id" : 101,
+            "name" : "Hasnain",
+            "age" : 22, 
+            "course" : "MCA",
+            "tech" : "JavaScript"
+        },
+
+        {
+            "id" : 102,
+            "name" : "Ahmad",
+            "age" : 23,
+            "course" : "B.Tech",
+            "tech" : "python"
+        },
+
+        {
+            "id" : 103,
+            "name" : "Ramesh",
+            "age" : 20,
+            "course" : "B.Sc",
+            "tech" : "Mathematics"
+        },
+
+        {
+            "id" : 104,
+            "name" : "Raju",
+            "age" : 31,
+            "course" : "BCA",
+            "tech" : "C++"
+        },
+
+        {
+            "id" : 105,
+            "name" : "Joe",
+            "age" : 24,
+            "course" : "M.Sc(Data Science)",
+            "tech" : ".net"
+        },
+
+        {
+            "id" : 106,
+            "name" : "John",
+            "age" : 29,
+            "course" : "M.Tech",
+            "tech" : "AI"
+        },
+
+        {
+            "id" : 107,
+            "name" : "Rohan",
+            "age" : 25,
+            "course" : "MCA",
+            "tech" : "Java"
+        },
+        
+        {
+            "id" : 108,
+            "name" : "Shayam",
+            "age" : 27,
+            "course" : "B.Tech",
+            "tech" : "Angular"
+        }
+
+
+    ]
+}
