@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "admin": [
+    {
+      "id": "id",
+      "pass": "pass"
+    },
+    {
+      "id": "admin",
+      "pass": "123"
+    }
+  ],
+  "user": [
+    {
+      "id": "saquib@gmail.com",
+      "name": "Saquib123",
+      "mobile": "9524789156",
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "zipcode": "202001",
+      "password": "Saquib123"
+    },
+    {
+      "id": "rohan@gamil.com",
+      "name": "Rohan",
+      "mobile": "6594852345",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "zipcode": "592451",
+      "password": "r21"
+    },
+    {
+      "id": "sa@gmail.com",
+      "name": "Saurab Sharma",
+      "mobile": "5948652145",
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "zipcode": "202001",
+      "password": "s1"
+    },
+    {
+      "id": "mhasnain1757@gmail.com",
+      "name": "Mohd Hasnain Raza",
+      "mobile": "9025364251",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipcode": "110025",
+      "password": "125"
+    },
+    {
+      "id": "asghar.fa7104@gmail.com",
+      "name": "Asghar",
+      "mobile": "9058691755",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zipcode": "110025",
+      "password": "a1"
+    },
+    {
+      "id": "saquib1@gmail.com",
+      "name": "Saquib",
+      "mobile": "9524789154",
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "zipcode": "202001",
+      "password": "S12"
+    }
+  ]
+}
