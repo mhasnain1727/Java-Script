@@ -1,0 +1,15 @@
+.container1{
+    margin-top: 3%;
+    margin-left: 25%; 
+    margin-right: 25%;
+    width: 50%;
+}
+
+.img{
+    height: 80px;
+    width: 150px;
+}
+
+ul{
+    list-style-type: upper-alpha;
+}
